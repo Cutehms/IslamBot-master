@@ -44,7 +44,7 @@ class IslamBot(commands.AutoShardedBot):
             "tafsir.tafsir",
             "miscellaneous.reload",
             "miscellaneous.help",
-            "miscellaneous.TopGG" # Remove if using the bot locally
+             # Remove if using the bot locally
         ]
 
     async def setup_hook(self):
